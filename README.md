@@ -1,3 +1,6 @@
+Essa é uma aplicação construída em React com Typescript baseada no YouTube. Esse projeto possui diversas funcionalidades como pesquisar vídeos, navegar pela barra de categorias onde clicar em algum botão faz com que a página recarregue somente com vídeos relacionados aquela categoria específica. Também é possível criar uma conta e fazer login. Quando logado, é possível cadastrar um novo vídeo com título, thumbnail e descrição. Essa aplicação consome a API de dados do YouTube e também possui uma API própria construída com Node.JS que é responsável pelo cadastro de novos usuários, autenticação e login, cadastro de novos vídeos e colher dados do usuário logado.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
